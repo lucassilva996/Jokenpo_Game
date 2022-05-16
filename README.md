@@ -4,7 +4,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/lucassilva996/Jokenpo_Game)
 
 <p align="center">
-  <img width="470" src="assets/cad_imunizantes.png">
+  <img width="470" src="assets/Jokenpo_game.png">
 </p>
 
 ## Descrição
