@@ -3,10 +3,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/lucassilva996/Jokenpo_Game)
 ![GitHub top language](https://img.shields.io/github/languages/top/lucassilva996/Jokenpo_Game)
 
-<p align="center">
-  <img width="470" src="assets/Jokenpo_game.png">
-</p>
-
 ## Descrição
 Essa WebAPI tem como objetivo simular uma partida de Pedra, Papel e Tesoura onde dois jogadores fazem a jogada via POST, é verificado nas regras as combinações de resultados e retornado via JSON o vencedor.
 
